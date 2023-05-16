@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35afdb5b-f229-4681-91d5-0511f7475c63" name="Changes" comment="finished course area for now">
-      <change afterPath="$PROJECT_DIR$/corso" afterDir="false" />
-    </list>
+    <list default="true" id="35afdb5b-f229-4681-91d5-0511f7475c63" name="Changes" comment="finished course area for now" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
